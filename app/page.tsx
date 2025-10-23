@@ -343,10 +343,12 @@ export default function Home() {
           </p>
           <div className="flex flex-wrap gap-3">
             <a
-              href="mailto:gpatil3@mtu.edu"
-              className="inline-flex items-center rounded-full bg-slate-900 text-white px-4 py-2 text-sm"
-            >
-              ✉ gpatil3@mtu.edu
+              href="mailto:gpatil3@mtu.edu?subject=Hello%20Gaurav&body=Hi%20Gaurav,"
+  target="_self"
+  rel="noopener noreferrer"
+  className="inline-flex items-center rounded-full bg-slate-100 text-slate-900 px-4 py-2 text-sm border hover:bg-slate-200 transition-colors"
+>
+  ✉ Email Me
             </a>
             <a
               href="https://www.linkedin.com/in/gauravpatil87/"
