@@ -348,7 +348,7 @@ export default function Home() {
   rel="noopener noreferrer"
   className="inline-flex items-center rounded-full bg-slate-100 text-slate-900 px-4 py-2 text-sm border hover:bg-slate-200 transition-colors"
 >
-  ✉ Email Me
+  ✉ gpatil3@mtu.edu
             </a>
             <a
               href="https://www.linkedin.com/in/gauravpatil87/"
